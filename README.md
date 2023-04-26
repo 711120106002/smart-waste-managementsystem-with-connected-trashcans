@@ -1,0 +1,1 @@
+# smart-waste-managementsystem-with-connected-trashcans
